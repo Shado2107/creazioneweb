@@ -117,7 +117,7 @@
        @include('includes._sidesocial')
         <!-- Message Box -->
         <div class="message-box">
-            <a href="#" data-toggle="modal" data-target=".contact-modal-lg">Devis</a>
+            <a href="#" data-toggle="modal" data-target=".contact-modal-lg"><img src="{{asset('users/img/core-img/envelope.png')}}" alt=""></a>
         </div>
     </div>
     <!-- Social Sidebar Area End -->
